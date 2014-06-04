@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yet another website/blog
+title: Yet another website/blog/journal
 ---
 
 Finally a blog platform that seems to be done right. Makes it trivial to backup, makes it easy to edit, either through git/vim or through github's online editor. Markdown, git, a clear URL scheme, the possibility to add html if necessary. What's more to ask? 
