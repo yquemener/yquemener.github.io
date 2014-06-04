@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Yet another journal/blog/website
