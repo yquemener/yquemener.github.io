@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Yves' blog
 tagline:          Not particularily focused
 url:              http://yquemener.github.io
-paginate:         1
+paginate:         8
 baseurl:          /
 author:
   name:           Yves Quemener
