@@ -1,0 +1,22 @@
+Elements of a quadcopter
+------------------------
+
+* frame
+* motors
+* ESC
+* battery
+* power distribution
+* radio link
+* controller
+
+Considerations and constraints 
+------------------------------
+
+I have friends in France who made a modulcopter and I can start from their design (hook them with Charles?)
+
+I want to spend most of my time writting software for this project. I am less interested on the hardware part.
+
+I want to be able to test indoor reasonnably safely.
+
+I want to be able to lift a clamp holding designed bricks.
+
