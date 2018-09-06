@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: Lessons I learned on deep-learning this summer

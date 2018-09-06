@@ -39,12 +39,45 @@ In my possession so far
 - crazyflie nanocopter
 - crazyflie radio
 
-Steps
------
+Technical milestones
+--------------------
 
-- Find a quad positionin space
-- Find a quad orientation
-- Stabilize it
-- Make it land
-- Make it dock
-- Document the whole process
+1) Find a quad position in space
+2) Find a quad orientation
+3) Stabilize it
+4) Make it land
+5) Make it dock
+6) Document the whole process
+
+Non-technical steps
+-------------------
+
+- Have a live demo of something, anything, make a video and document the steps for this demo. Publish it on specialized forum.
+- Do the same for docking. Go more public.
+
+
+Platforms I will use
+--------------------
+
+- **Crazyflie**: it has the irremplaceable quality of already being functional, working out of the box, being purely wifi.
+
+- **Charles platform**: Charles proposed to help me design a quad for my needs. I need to specify it a bit. I think it will be purely wifi. Big enough to carry a camera, an embedded computer (a phone?) and a clamp holding a piece of wood. 
+
+- **THS quad**: Allows me to walk through the whole construction process. Probably the strongest and biggest of all. Will allow to make range, autonomy and lifting tests.
+
+
+
+Steps to reach milestone 3
+--------------------------
+
+- Flash the crazyflie firmware to be able to keep LEDs on and to return acceleros and gyros data.
+- Make a characterization of the thrust command level necessary for takeoff in function of the battery level.
+- Try to make a characterization of the amount of acceleration depending on both battery level and thrust command level
+- Test the deviation of yaw using gyros
+- Make a kinect calibration step to find the vertical direction
+- Re-test the PID in these conditions.
+
+
+
+
+
